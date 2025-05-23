@@ -1,3 +1,19 @@
+Technical Components
+ColorPicker Component
+Uses React's useState hook for color state management
+Displays current color in a large preview box
+Shows hex code of selected color
+Includes a color input control
+Styling Highlights
+Centered layout with flex container
+Circular display area for color preview
+Gradient background animation
+Clean typography with sans-serif fonts
+Smooth transitions and hover effects
+Technology Stack
+React
+CSS3
+Modern JavaScript (ES6+)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
